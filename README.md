@@ -1,5 +1,5 @@
 ### Hello There, 
-#### I'm Suhail Fazal from Bangalore, India
+#### I'm Suhail Fazal
 
 * In pursuit of transition towards Data Science, i have successfully completed end to end Machine Learning Projects at INeuron.
 * Before transitioning to Data Science i hold 5 years of experience in leading Marketing and Sales teams.

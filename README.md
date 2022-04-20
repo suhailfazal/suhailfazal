@@ -9,7 +9,7 @@
 ### Certifications :
 - Business Analytics Masters from [**INeuron Intelligence**](https://ineuron.ai/)
 - DataScience Bootcamp from [**Udemy**](https://www.udemy.com/)
-- Machine Learning from [**INeuron Intelligence**](https://ineuron.ai/) and [**Krish Naik's Youtube Channel**](https://www.youtube.com/user/krishnaik06)
+- Machine Learning from [**INeuron Intelligence**](https://ineuron.ai/)
 
 ### Projects and Blogs: 
 Have written a few Blogs on [**Business Intelligence Projects**](https://blog.ineuron.ai/@suhailfazaln)

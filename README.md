@@ -10,7 +10,7 @@
 - DataScience Bootcamp from [**Udemy**](https://www.udemy.com/)
 - Machine Learning from [**INeuron Intelligence**](https://ineuron.ai/)
 - Data Science and Machine Learning Master Class - Udemy
-- Full Stack Data Science 2021 - 2022 - Pursuing
+- Full Stack Data Science 2021 - 2022 - Pursuing [**INeuron Intelligence**](https://ineuron.ai/)
 
 ### Projects and Blogs: 
 Have written a few Blogs on [**Business Intelligence Projects**](https://blog.ineuron.ai/@suhailfazaln)

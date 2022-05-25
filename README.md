@@ -2,7 +2,6 @@
 #### I'm Suhail Fazal from Bangalore, India
 
 * In pursuit of transition towards Data Science, i have successfully completed end to end Machine Learning Projects during my Internship at INeuron Intelligence.
-* Before transitioning to Data Science i hold 5 years of experience in leading Marketing and Sales teams.
 * Perceptive and logical with proven ability to communicate with both technical professionals and end-users to identify and translate business requirements. 
 * Proficient in Machine Learning, Data Modelling, Data Visualisation, Statistical Analysis, Strategic insights, and Production of comprehensive reports.
 
@@ -10,6 +9,8 @@
 - Business Analytics Masters from [**INeuron Intelligence**](https://ineuron.ai/)
 - DataScience Bootcamp from [**Udemy**](https://www.udemy.com/)
 - Machine Learning from [**INeuron Intelligence**](https://ineuron.ai/)
+- Data Science and Machine Learning Master Class - Udemy
+- Full Stack Data Science 2021 - 2022 - Pursuing
 
 ### Projects and Blogs: 
 Have written a few Blogs on [**Business Intelligence Projects**](https://blog.ineuron.ai/@suhailfazaln)

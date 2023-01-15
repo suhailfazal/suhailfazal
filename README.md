@@ -18,24 +18,20 @@
      - Extract-Transorm-Load Tools and ETL Pipelines
      - Quantitative Analysis
      - Feature Engineering
-     - Data Visualisation
-     - Statistical Analysis, 
-     - Application Deployment and Devops.
+     - Data Visualisation - Power BI
+     - Statistical Analysis
+     - Application Deployment and Devops
+
  
 ### Certifications :
 - Business Analytics Masters from [**INeuron Intelligence**](https://ineuron.ai/)
 - Full Stack Data Science from [**INeuron Intelligence**](https://ineuron.ai/)
 
-### Projects and Blogs: 
-Blogs on [**Business Intelligence Projects**](https://blog.ineuron.ai/@suhailfazaln)
-
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Suhail_Fazal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhailfazal/) [![Mail Badge](https://img.shields.io/badge/-Suhail's_email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:suhailfazaln@gmail.com)
 
-
 ### Languages and Tools used in Projects:
-
 
 - **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 

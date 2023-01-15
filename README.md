@@ -1,20 +1,33 @@
-### Hello There, 
-#### I'm Suhail Fazal from Bangalore, India
+### Hey There, 
+#### I'm Suhail from Bangalore, India 
 
-* Proficient in Machine Learning, Data Modelling, Data Visualisation, Statistical Analysis, Quantitative Analysis, Data Visualization, Predictive Analysis, Data Analysis, Data Preprocessing, Business Intelligence, ML algorithms, Model Development, and Deployment.
-.
-
+* Proficient in 
+     - Machine Learning
+     - Web Scraping
+     - Programming - Python
+     - Databases - MySQL, MSSQL, MongoDB
+     - Backend/Web Frameworks - Django, Flask, Rest Api
+     - Azure Web App and Function Apps
+     - Azure Data Factory, Databricks
+     - Web Analytics
+     - Exploratory Data Analysis
+     - Business Intelligence
+     - Data Modelling
+     - Data Preprocessing
+     - Predictive Analytics
+     - Extract-Transorm-Load Tools and ETL Pipelines
+     - Quantitative Analysis
+     - Feature Engineering
+     - Data Visualisation
+     - Statistical Analysis, 
+     - Application Deployment and Devops.
+ 
 ### Certifications :
 - Business Analytics Masters from [**INeuron Intelligence**](https://ineuron.ai/)
-- DataScience Bootcamp from [**Udemy**](https://www.udemy.com/)
-- Machine Learning from [**INeuron Intelligence**](https://ineuron.ai/)
-- Data Science and Machine Learning Master Class - Udemy
-- Full Stack Data Science 2021 - 2022 - Pursuing [**INeuron Intelligence**](https://ineuron.ai/)
+- Full Stack Data Science from [**INeuron Intelligence**](https://ineuron.ai/)
 
 ### Projects and Blogs: 
-Have written a few Blogs on [**Business Intelligence Projects**](https://blog.ineuron.ai/@suhailfazaln)
-
-For all other Machine Learning projects and files please check my [**Github Repositories**](https://github.com/suhailfazal?tab=repositories)
+Blogs on [**Business Intelligence Projects**](https://blog.ineuron.ai/@suhailfazaln)
 
 ### Connect with me:
 

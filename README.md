@@ -15,7 +15,7 @@
      - Data Modelling
      - Data Preprocessing
      - Predictive Analytics
-     - Extract-Transorm-Load Tools and ETL Pipelines
+     - Extract-Transorm-Load Tools
      - Quantitative Analysis
      - Feature Engineering
      - Data Visualisation - Power BI

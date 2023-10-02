@@ -1,4 +1,4 @@
-Proficient in 
+Proficient in:
      - Machine Learning
      - Web Scraping
      - Programming - Python

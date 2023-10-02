@@ -1,7 +1,4 @@
-### Hey There, 
-#### I'm Suhail from Bangalore, India 
-
-* Proficient in 
+Proficient in 
      - Machine Learning
      - Web Scraping
      - Programming - Python
@@ -15,7 +12,7 @@
      - Exploratory Data Analysis
      - Business Intelligence
      - Data Preprocessing
-     - Predictive Analytics
+     - Predictive Modeling
      - Data Orchestration
      - Quantitative Analysis
      - Feature Engineering

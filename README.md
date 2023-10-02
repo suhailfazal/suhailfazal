@@ -7,25 +7,28 @@
      - Programming - Python
      - Databases - MySQL, MSSQL, MongoDB
      - Backend/Web Frameworks - Django, Flask, Rest Api
-     - Azure Web App and Function Apps
-     - Azure Data Factory, Databricks
+     - PowerBI, Pyspark
+     - AzureML, Databricks, Data Lake, DevOps​, Azure Data Engineering
+     - Azure Monitor, Log Analytics, Application Insights
+     - Azure Data Factory, WebApp, Function App, Azure Storage (Containers, Queues)​
      - Web Analytics
      - Exploratory Data Analysis
      - Business Intelligence
-     - Data Modelling
      - Data Preprocessing
      - Predictive Analytics
-     - Extract-Transorm-Load Tools
+     - Data Orchestration
      - Quantitative Analysis
      - Feature Engineering
      - Data Visualisation - Power BI
      - Statistical Analysis
-     - Application Deployment and Devops
+     - Automating Model Development, Deployment, Retraining, and Devops
 
  
 ### Certifications :
 - Business Analytics Masters from [**INeuron Intelligence**](https://ineuron.ai/)
 - Full Stack Data Science from [**INeuron Intelligence**](https://ineuron.ai/)
+- Azure Data Engineering - [**Coursera**](https://coursera.org/share/a31d91db13ff14318e7ddcd1a78a466c)
+- Machine Learning Operations for Production - [**Coursera**](https://www.coursera.org/)
 
 ### Connect with me:
 

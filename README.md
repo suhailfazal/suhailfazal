@@ -3,9 +3,7 @@
 Proficient in:
 
      - Machine Learning
-     
      - Web Scraping
-     
      - Programming - Python
      - Databases - MySQL, MSSQL, MongoDB
      - Backend/Web Frameworks - Django, Flask, Rest Api

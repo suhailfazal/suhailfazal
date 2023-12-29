@@ -3,25 +3,21 @@
 Proficient in:
 
      - Machine Learning
-     - Web Scraping
      - Programming - Python
      - Databases - MySQL, MSSQL, MongoDB
      - Backend/Web Frameworks - Django, Flask, Rest Api
      - PowerBI, Pyspark
-     - AzureML, Databricks, Data Lake, DevOps​, Azure Data Engineering
+     - AzureML, Databricks, Data Lake, Azure DevOps​
      - Azure Monitor, Log Analytics, Application Insights
      - Azure Data Factory, WebApp, Function App, Azure Storage (Containers, Queues)​
      - Web Analytics
-     - Exploratory Data Analysis
      - Business Intelligence
      - Data Preprocessing
      - Predictive Modeling
      - Data Orchestration
-     - Quantitative Analysis
      - Feature Engineering
-     - Data Visualisation - Power BI
      - Statistical Analysis
-     - Automating Model Development, Deployment, Retraining, and Devops
+     - MLOps - Automating Model Development, Deployment, Retraining, and Devops
 
  
 ### Certifications :

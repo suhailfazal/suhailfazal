@@ -6,6 +6,23 @@ Bangalore, India | [Email Me](mailto:suhailfazaln@gmail.com) | [LinkedIn](https:
 
 ---
 
+👋 About Me
+     I'm a Senior MLOps Engineer with over 9 years of experience across diverse sectors, including CPG, Ecommerce, Automobile R&D, and Digital Media. 
+     My expertise is in MLOps implementation, automating and orchestrating DataOps & MLOps pipelines, deploying models, and enhancing web applications. I have a strong foundation in Python programming and backend development with Django and Flask. I thrive in agile environments, leading cross-functional teams and ensuring successful project delivery.
+
+🛠️ Technical Skills
+     Programming         : Python, OOPs, Scripting
+     MLOps & DevOps      : AzureML, Databricks, CI/CD, Azure DevOps, MLflow, Airflow, Dagster
+     Backend Development : Django, Flask
+     Databases           : MySQL, MSSQL
+     Version Control     : Git, GitHub
+     Cloud Services      : Azure Web App, Function App, ADLS, Azure Key Vault
+     Orchestration       : Airflow, Dagster
+     Project Management  : JIRA, Azure DevOps, Excel
+     Other Tools         : PowerBI, Confluence
+
+---
+
 ## 🛠️ Skills and Tools:
 
 

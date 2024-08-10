@@ -24,7 +24,8 @@ I have a strong foundation in Python programming and backend development with Dj
 | Category              | Skills and Tools                              |
 |-----------------------|-----------------------------------------------|
 | **Programming**       | Python, OOPs, Scripting                       |
-| **MLOps & DevOps**    | AzureML, Databricks, CI/CD, Azure DevOps, MLflow, Airflow, Dagster |
+| **MLOps**             | AzureML, Databricks, MLflow, Airflow, Dagster |
+| **DevOps**            | CI/CD, Azure DevOps                           |
 | **Backend Development** | Django, Flask                                |
 | **Databases**         | MySQL, MSSQL                                  |
 | **Version Control**   | Git, GitHub                                   |
